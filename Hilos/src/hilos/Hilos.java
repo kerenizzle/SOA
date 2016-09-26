@@ -98,7 +98,7 @@ public class Hilos implements Runnable {
         
         public Interfaz(){
         
-        super("Práctica Nueve Java");
+        super("Práctica Nueve de Java");
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         Fondo=new JPanel(new FlowLayout(FlowLayout.CENTER));
         Fondo.setBorder(BorderFactory.createEmptyBorder(5,5,5,5));
